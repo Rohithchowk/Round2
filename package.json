@@ -5,8 +5,8 @@
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
-    "@material-ui/core": "^4.12.5", // Update to a compatible version, or use the latest v4 release
-    "@mui/material": "^5.2.1", // Update to the latest version
+    "@material-ui/core": "^4.12.5",
+    "@mui/material": "^5.2.1",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
